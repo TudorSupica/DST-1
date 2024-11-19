@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "footswitch")(type "KiCad")(uri "C:/Users/Tudor/Documents/GitHub/TDS-2/KiCAD project files/footswitch.kicad_sym")(options "")(descr ""))
+)
