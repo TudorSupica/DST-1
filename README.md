@@ -10,7 +10,7 @@ The original DS-1 used some relatively hard to find components, so i've swapped 
 
 This distorion pedal is intended to set the standard to me as to what "a good distortion pedal" sounds like. Usually distortion pedals are quite cheap and easy to build, but their sound comes down to the components used. Thus, I might swap out the TL072 for other op-amps aswell as the transistors. Good components make good pedals, but sometimes their cheapness and imperfections make the pedal unique. 
 
-# [The Schematic](https://github.com/TudorSupica/DST-1/blob/main/schematic/)
+# [The Schematic](https://github.com/TudorSupica/DST-1/blob/main/Schematic/)
 ![DST-1_Schematic](https://github.com/user-attachments/assets/2cee1d8d-a1e5-451e-9762-bd3f3e70fbaf)
 The schematic is quite cramped since I wanted it to fit all in a single unbroken signal line, from the input to the output. The +Vcc and -Vcc are supplied using a voltage divider between the positive and negative terminals of a 9v battery, also forming a vitual ground. To make sure I make the disctinction between the Gnd of the battery and the Gnd of the signal, I decided to rename signal's ground to +4,5v since it's the midway point between the +9v and the 0v of the battery.
 
